@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="q1">There are 7 seas</string>
+    <string name="q2">There are 10 continents</string>
+    <string name="q3">The Square Root of 16 = 4</string>
+    <string name="q4">The acceleration of gravity is 5.7m/s</string>
+    <string name="q5">Google is a search engine</string>
+    <string name="q6">Dogs have 4 legs</string>
+    <string name="q7">Cats have 6 lives</string>
+    <string name="q8">You stop at red lights</string>
+    <string name="q9">Santa wears a red coat</string>
+    <string name="q10">Halloween is on October 31st</string>
+</resources>
